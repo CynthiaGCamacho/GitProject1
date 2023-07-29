@@ -11,4 +11,7 @@ public class DemoDay2 {
 	public static void subtract(int a, int b) {
 		System.out.println(a-b);
 	}
+	}
+	public static void add(double a, double b) {
+		System.out.println(a+b);
 }
