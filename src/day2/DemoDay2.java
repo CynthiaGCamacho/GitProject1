@@ -5,5 +5,10 @@ public class DemoDay2 {
 		System.out.println("Test");
 		
 	}
-
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
+	public static void subtract(int a, int b) {
+		System.out.println(a-b);
+	}
 }
